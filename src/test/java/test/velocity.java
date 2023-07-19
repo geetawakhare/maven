@@ -11,6 +11,6 @@ public class velocity {
 	  WebDriver driver= new ChromeDriver();
 	  Thread.sleep(1000);
 	  driver.get("https://vctcpune.com/");
-	  
+	  System.out.println("hii i am velocity");
   }
 }
